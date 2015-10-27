@@ -1,0 +1,5 @@
+http://getbootstrap.com/components/#thumbnails
+http://v4-alpha.getbootstrap.com/content/images/
+http://bootswatchr.com/create#!/edit/eb960ce8
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=.less
+http://getbootstrap.com/customize/
