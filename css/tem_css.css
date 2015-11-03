@@ -10,14 +10,29 @@
 	text-align: center;
 }
 
-p,
-h4,	
-#specials{
-	text-align: center
+#specials h4{
+	text-align: center;
 }
 
-p,
-h4,	
-#news_events{
-	text-align: center
+#specials p{
+	text-align: center;
+	font-size: 13px;
+}
+
+#news_events h3 {
+	text-align: center;
+}
+
+#news_events h5 {
+	text-align: center;
+}
+
+#news_events p {
+	text-align: center;
+	font-size: 13px;
+}
+
+#store_name h1 {
+	text-align: center;
+	font-size: 50px;
 }
